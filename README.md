@@ -1,1 +1,1 @@
-# electronics_standard_cheatsheet
+# A compilation of electronics standard cheatsheet
